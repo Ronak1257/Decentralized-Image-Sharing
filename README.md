@@ -28,19 +28,20 @@ some Images
 
 HOME PAGE :
 
-![home](https://github.com/Ronak1257/Web3_storage/assets/130481625/9dd47517-18f8-4164-b95e-430f705c411a)
+![home](https://github.com/Ronak1257/Decentralized-Image-Sharing/assets/130481625/4ad7dd58-06b1-4d02-a9b0-ea2b2fd3ca78)
 
 
 UPLOAD IMAGE PAGE :
 
-![upload](https://github.com/Ronak1257/Web3_storage/assets/130481625/da4140e2-34d0-4cc4-a08a-0e1e433cdf58)
+![upload](https://github.com/Ronak1257/Decentralized-Image-Sharing/assets/130481625/c40abd0d-e4c1-4de1-b308-fa78b12ef985)
 
 
 VIEW IMAGE PAGE :
 
-![viewImage](https://github.com/Ronak1257/Web3_storage/assets/130481625/ffac5eca-4716-4c36-b794-359d05ffadf2)
+![viewImage](https://github.com/Ronak1257/Decentralized-Image-Sharing/assets/130481625/4a8f2511-cdf5-4416-9f1f-ae85166f42e1)
 
 
 SHARE PROFILE PAGE :
 
-![shareProfile](https://github.com/Ronak1257/Web3_storage/assets/130481625/a96a9c15-964c-4d17-b8fa-0384e420def3)
+![shareProfile](https://github.com/Ronak1257/Decentralized-Image-Sharing/assets/130481625/a84218e9-9dac-42f5-86d0-1c8018cfe960)
+
